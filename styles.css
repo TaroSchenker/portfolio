@@ -3,13 +3,14 @@
 
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100vw;
-    height: 7vh;
+    height: 5vh;
     background-color: #FFFFFF;
     color:  #252526;
 }
@@ -26,7 +27,8 @@ nav{
 li{
     list-style-type: none;
     margin: 0 2vh;
-    font-size: 3vh;
+    font-size: 2vh;
+    text-align: right;
 
   }
 
